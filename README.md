@@ -1,2 +1,3 @@
 # SeleniumJEF
-Project is to increase my Selenium knowledge base 
+My Selenium Repository
+Project is to increase my Selenium knowledge base. 
